@@ -1,2 +1,2 @@
 [Main Page](README.md)  
-About my schooling
+###About my schooling
