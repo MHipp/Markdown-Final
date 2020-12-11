@@ -1,4 +1,5 @@
-[Main Page](README.md)  
+[Main Page](README.md) 
+### Code
 Here is my adaptation of the FizzBuzz assignment
 
 	function fizzbuzz() {
