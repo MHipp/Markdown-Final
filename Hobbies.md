@@ -1,2 +1,2 @@
 [Main Page](README.md)  
-What I like to do
+One of my main hobbies in high school was Robotics, I was on the [DeSmet Robotics team](https://www.durtrobotics.com/), and we got to the world Championship for robotics my freshmen year.
